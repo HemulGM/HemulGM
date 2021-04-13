@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ![HemulGM](https://github-readme-stats.vercel.app/api?username=hemulgm&theme=dark&show_icons=true)
 
 <!--
