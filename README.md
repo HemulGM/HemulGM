@@ -1,4 +1,5 @@
-![HemulGM](https://github-readme-stats.vercel.app/api?username=hemulgm&theme=dark&show_icons=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hemulgm&theme=dark&show_icons=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemulGM&layout=compact&theme=dark">
 
 <!--
 **HemulGM/HemulGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
