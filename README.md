@@ -1,5 +1,5 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hemulgm&theme=dark&show_icons=true">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemulGM&layout=compact&theme=dark">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hemulgm&theme=github_dark&show_icons=true&hide_border=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemulGM&layout=compact&theme=github_dark&hide_border=true">
 
 <!--
 **HemulGM/HemulGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
