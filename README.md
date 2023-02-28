@@ -4,6 +4,7 @@
 <br><br><br><br>
 </div>
  <div style="display: inline_block"><br>
+<hr>
 
 <!--code-->
 <img align="center" alt="pascal-delphi" height="30" width="30" src="https://dtffvb2501i0o.cloudfront.net/images/logos/delphi-logo-128.png">
