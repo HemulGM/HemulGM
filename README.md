@@ -23,6 +23,11 @@
 </div>
 
 </br>
+You can chat with me or other Delphi developers in telegram channels: </br>
+https://t.me/delphidevelopers </br>
+https://t.me/Delphi_Lazarus </br>
+https://t.me/fmx_ru </br>
+</br>
 
 ![](https://komarev.com/ghpvc/?username=hemulgm&style=flat-square)
 <!--
