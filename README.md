@@ -7,7 +7,7 @@
 <hr>
 
 <!--code-->
-<img align="center" alt="pascal-delphi" height="30" width="30" src="https://dtffvb2501i0o.cloudfront.net/images/logos/delphi-logo-128.png">
+<img align="center" alt="pascal-delphi" height="30" width="30" src="https://d2ohlsp9gwqc7h.cloudfront.net/images/rad-studio/rad-12/Delphi_12_256x2561x.webp">
 <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img align="center" alt="trello" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=30&color=currentColor">
 <img align="center" alt="trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
