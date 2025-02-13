@@ -23,6 +23,8 @@
 </div>
 
 </br>
+You can thank me with a donation 🍩 here. https://boosty.to/hemulgm
+</br>
 You can chat with me or other Delphi developers in telegram channels: </br>
 https://t.me/delphidevelopers </br>
 https://t.me/Delphi_Lazarus </br>
