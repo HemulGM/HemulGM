@@ -1,10 +1,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hemulgm&theme=dark&show_icons=true&hide_border=true&count_private=true" height=150><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemulgm&theme=dark&show_icons=true&hide_border=true&layout=compact" height=150>
-<br><br><br><br>
-
-<div style="display: inline_block"><br>
+<br><br><br><br><br><br>
 <hr>
 
-</div>
 
 <!--code-->
 
