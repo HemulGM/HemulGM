@@ -2,9 +2,8 @@
 <br><br><br><br>
 
 <div style="display: inline_block"><br>
-  <hr>
- 
-  # DELPHI
+<hr>
+
 </div>
 
 <!--code-->
